@@ -11,14 +11,15 @@ Join Oracle's developer community to work on new exciting projects, build great 
 
 [Join Oracle's developer community](https://bit.ly/odevrel_slack)<br><br>
 
-<!--- if you have additional organization-wide resources, add them here --->
 
 ## All Oracle GitHub organizations
 
 * [Oracle](https://github.com/oracle) – our primary GitHub organization
 * [Fn Project](https://github.com/fnproject) – the container native, cloud agnostic serverless platform
+* [Helidon](https://github.com/helidon-io) – cloud-native set of Java libraries for writing microservices
 * [Java Community Process](https://github.com/jcp-org) – developing standard technical specifications for Java technology
 * [Java EE](https://github.com/javaee) – the Java Enterprise Edition platform
+* [LiveLabs](https://github.com/oracle-livelabs) – workshops for building and deploying applications using Oracle's technologies
 * [MySQL](https://github.com/mysql) –  the world's most popular open source database
 * [OpenJDK](https://github.com/openjdk/) – OpenJDK development and related repositories
 * [Oracle DevRel](https://github.com/oracle-devrel) – developer code samples, tutorials, and more
