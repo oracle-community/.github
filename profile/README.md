@@ -5,6 +5,8 @@
 
 Join Oracle's developer community to work on new exciting projects, build great applications and meet other community members.
 
+Please note that repositories in this organization are created and maintained by community members, rather than Oracle.
+
 ## Get Started
 
 [Learn about open source at Oracle](https://developer.oracle.com/open-source/)
@@ -16,6 +18,7 @@ Join Oracle's developer community to work on new exciting projects, build great 
 
 * [Oracle](https://github.com/oracle) – our primary GitHub organization
 * [Fn Project](https://github.com/fnproject) – the container native, cloud agnostic serverless platform
+* [GraalVM](https://github.com/graalvm) - projects related to GraalVM, a high-performance JDK with native compilation
 * [Helidon](https://github.com/helidon-io) – cloud-native set of Java libraries for writing microservices
 * [Java Community Process](https://github.com/jcp-org) – developing standard technical specifications for Java technology
 * [Java EE](https://github.com/javaee) – the Java Enterprise Edition platform
