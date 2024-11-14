@@ -30,3 +30,5 @@ Please note that repositories in this organization are created and maintained by
 * [Oracle Sample Projects](https://github.com/oracle-samples) – new projects and sample applications 
 * [Oracle Terraform Modules](https://github.com/oracle-terraform-modules) – Terraform modules for provisioning Oracle Cloud Infrastructure resources
 * [Verrazzano](https://github.com/verrazzano) – an open source enterprise container platform curated by Oracle
+
+THE CONTRIBUTIONS IN THIS ORGANIZATION WERE NOT REVIEWED BY ORACLE EMPLOYEES. THE REPOSITORIES WERE ALSO NOT REVIEWED FOR SECURITY CONCERNS. USE AT YOUR OWN RISK.
